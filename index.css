@@ -5,8 +5,30 @@
     background-color: rgb(72, 0, 240); 
 }
 
-/* This is a comment */
+#s {
+    color: purple;
+}
 
+#lol {
+    color: violet;
+}
+
+/* This is a comment */
+#q {
+    color: red;
+}
+#r {color: blue;
+}
+#w {
+    color: mediumseagreen;
+}
+#e {
+    color: orange;
+}
+#t {
+    color: purple;
+}
+#y {color: pink;}
 .font {
     font-size: 2em;
     font-weight: bold;
