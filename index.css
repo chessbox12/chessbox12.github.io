@@ -34,8 +34,40 @@
     font-weight: bold;
     font-style: italic;
     /* text-decoration: line-through underline overline; */
-    /* font-family: ; */
+}
+.o {
+    background-color: yellow;
+}
+.box {
+    border:mediumaquamarine 3px solid;
+/*  border-radius:25px ; */
+padding: 10px 5px 15px 20px;
+
+}
+/* treach spefvcifdjcn vints siucha s comic sans */
+h1 {text-align: right;}
+ol{
+    list-style: armenian;
 }
 
+ul {
+    list-style-type: disc ;
+}
 
-/* treach spefvcifdjcn vints siucha s comic sans */
+table, th,td {
+    border: mediumblue solid 2px;
+}
+
+table {
+    border-collapse: collapse;
+}
+a {
+    text-decoration: none;
+}
+h1:hover{
+    color: white;
+    font-size: 4em;
+}
+h1{
+    transition: all .5s;
+}
